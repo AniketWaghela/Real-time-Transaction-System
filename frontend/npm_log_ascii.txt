@@ -1,0 +1,35 @@
+npm : npm WARN 
+deprecated 
+yaeti@0.0.6: Package 
+no longer supported. 
+Contact Support at ht
+tps://www.npmjs.com/s
+upport for more info.
+At line:1 char:1
++ npm install > 
+npm_log.txt 2>&1
++ ~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~
+    + CategoryInfo   
+           : NotSpe  
+  cified: (npm WAR   
+ N deprec... for     
+more info.:Strin    
+g) [], RemoteExc    
+eption
+    + FullyQualified 
+   ErrorId : Native  
+  CommandError
+ 
+
+added 18 packages, and audited 360 packages in 6s
+
+125 packages are looking for funding
+  run `npm fund` for details
+
+2 moderate severity vulnerabilities
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
